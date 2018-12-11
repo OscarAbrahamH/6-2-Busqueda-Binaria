@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busqueda Binaria - Ejemplo2", "Busqueda Binaria - Ejemplo2.csproj", "{F2AAF45B-7BD7-4D7B-9289-AD785D23662E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2AAF45B-7BD7-4D7B-9289-AD785D23662E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AAF45B-7BD7-4D7B-9289-AD785D23662E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AAF45B-7BD7-4D7B-9289-AD785D23662E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AAF45B-7BD7-4D7B-9289-AD785D23662E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

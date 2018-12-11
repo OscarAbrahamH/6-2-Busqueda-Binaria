@@ -1,0 +1,6 @@
+C:\Users\Abraham\Desktop\Busqueda Binaria - Ejemplo2\bin\Debug\Busqueda Binaria - Ejemplo2.exe.config
+C:\Users\Abraham\Desktop\Busqueda Binaria - Ejemplo2\bin\Debug\Busqueda Binaria - Ejemplo2.exe
+C:\Users\Abraham\Desktop\Busqueda Binaria - Ejemplo2\bin\Debug\Busqueda Binaria - Ejemplo2.pdb
+C:\Users\Abraham\Desktop\Busqueda Binaria - Ejemplo2\obj\Debug\Busqueda Binaria - Ejemplo2.csprojResolveAssemblyReference.cache
+C:\Users\Abraham\Desktop\Busqueda Binaria - Ejemplo2\obj\Debug\Busqueda Binaria - Ejemplo2.exe
+C:\Users\Abraham\Desktop\Busqueda Binaria - Ejemplo2\obj\Debug\Busqueda Binaria - Ejemplo2.pdb
